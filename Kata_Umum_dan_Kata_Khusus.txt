@@ -1,0 +1,11 @@
+Kata umum memiliki cakupan makna yang lebih luas, sedangkan kata khusus memiliki cakupan makna yang lebih sempit.
+
+Contoh:
+
+hewan → kata umum
+
+kucing → kata khusus
+
+buah → kata umum
+
+mangga → kata khusus
