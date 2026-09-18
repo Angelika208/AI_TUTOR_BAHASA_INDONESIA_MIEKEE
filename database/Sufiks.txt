@@ -1,0 +1,9 @@
+Sufiks
+
+Sufiks adalah imbuhan yang diletakkan di belakang bentuk dasar.
+
+Contoh:
+
+makan + -an → makanan
+tulis + -an → tulisan
+ajar + -an → ajaran

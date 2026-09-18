@@ -1,0 +1,11 @@
+Prefiks
+
+Prefiks adalah imbuhan yang diletakkan di awal bentuk dasar.
+
+Contoh:
+
+ber- + jalan → berjalan
+meN- + tulis → menulis
+peN- + tulis → penulis
+ter- + buka → terbuka
+di- + baca → dibaca
